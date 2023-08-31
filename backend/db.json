@@ -1,0 +1,178 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Beef Burger",
+      "count": 0,
+      "srcImg": [
+        "burger.png",
+        "https://offloadmedia.feverup.com/secretglasgow.com/wp-content/uploads/2021/08/26055428/el-perro-negro-burger-glasgow-e1629910521426.jpg"
+      ],
+      "price": 120,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": " Chicken Burger",
+      "count": 0,
+      "srcImg": [
+        "burger.png",
+        "https://www.unileverfoodsolutions.lk/dam/global-ufs/mcos/meps/sri-lanka/calcmenu/recipes/LK-recipes/general/crispy-fried-chicken-burger/main-header.jpg"
+      ],
+      "price": 100,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Pepperoni Pizza",
+      "count": 0,
+      "srcImg": [
+        "pizza1.png",
+        "https://foodhub.scene7.com/is/image/woolworthsltdprod/2004-easy-pepperoni-pizza:Mobile-1300x1150"
+      ],
+      "price": 130,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Ranch Pizza",
+      "count": 0,
+      "srcImg": [
+        "pizza1.png",
+        "https://www.litehousefoods.com/wp-content/uploads/2021/10/300-5985-aspect-ratio-782-521.jpg"
+      ],
+      "price": 140,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Seafood Pizza",
+      "count": 0,
+      "srcImg": [
+        "pizza1.png",
+        "https://kfoods.com/images1/newrecipeicon/seafood-pizza_4999.jpg"
+      ],
+      "price": 130,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Seafood Pasta ",
+      "count": 0,
+      "srcImg": [
+        "pastaa.png",
+        "https://www.christinascucina.com/wp-content/uploads/2020/08/fullsizeoutput_d8c7.jpeg"
+      ],
+      "price": 105,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "name": "Red Sauce Pasta",
+      "count": 0,
+      "srcImg": [
+        "pastaa.png",
+        "https://www.archanaskitchen.com/images/archanaskitchen/10-Brands/DelMonte-KidsRecipes/Spaghetti_Pasta_Recipe_In_Creamy_Tomato_Sauce_-_Kids_Recipes_Made_With_Del_Monte-3.jpg"
+      ],
+      "price": 100,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 38,
+      "name": "Lasagne",
+      "count": 0,
+      "srcImg": [
+        "pastaa.png",
+        "https://www.recipetineats.com/wp-content/uploads/2017/05/Lasagne-recipe-3-main-square.jpg"
+      ],
+      "price": 100,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "Negresco",
+      "count": 0,
+      "srcImg": [
+        "pastaa.png",
+        "https://portal.elsupplier.com/backend/public/storage/products/1568288407.jpeg"
+      ],
+      "price": 100,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Large Cola",
+      "count": 0,
+      "srcImg": [
+        "soda2.png",
+        "https://i.guim.co.uk/img/media/d13a335be378fd1d5360d34a88faefe2b6e38ca9/0_156_3500_2100/master/3500.jpg?width=465&dpr=1&s=none"
+      ],
+      "price": 25,
+      "isInCart": false,
+      "categoryId": 4
+    },
+    {
+      "id": 11,
+      "name": "Small Cola",
+      "count": 0,
+      "srcImg": [
+        "soda2.png",
+        "https://i.guim.co.uk/img/media/d13a335be378fd1d5360d34a88faefe2b6e38ca9/0_156_3500_2100/master/3500.jpg?width=465&dpr=1&s=none"
+      ],
+      "price": 15,
+      "isInCart": false,
+      "categoryId": 4
+    },
+    {
+      "id": 12,
+      "name": "large Water",
+      "count": 0,
+      "srcImg": [
+        "water3.png",
+        "https://beverages2u.com/wp-content/uploads/2019/05/nestlebottle-2.png"
+      ],
+      "price": 15,
+      "isInCart": false,
+      "categoryId": 4
+    },
+    {
+      "id": 13,
+      "name": "Small Water",
+      "count": 0,
+      "srcImg": [
+        "water3.png",
+        "https://beverages2u.com/wp-content/uploads/2019/05/nestlebottle-2.png"
+      ],
+      "price": 7,
+      "isInCart": false,
+      "categoryId": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "pizza"
+    },
+    {
+      "id": 3,
+      "name": "pasta"
+    },
+    {
+      "id": 4,
+      "name": "drinks"
+    }
+  ]
+}
